@@ -1,10 +1,16 @@
 # Lead Course Front End System
 Lead Course Assignment Front End System
 
-## Project setup
-```
-npm install
-```
+## Requirements
+
+For development, you will only need Node.js and a node global package, npm, installed in your environement.
+
+
+## Install
+
+    $ git clone https://github.com/sonal0710/lead-course-assignment-front-end.git
+    $ cd lead-course-assignment-front-end
+    $ npm install
 
 ### Run
 ```
