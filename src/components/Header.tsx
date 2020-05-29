@@ -1,7 +1,7 @@
 import * as React from "react";
 import { Navbar} from 'react-bootstrap';
 
-export const Header: React.FC = props => {
+export const Header: React.FC = () => {
   
   return (
     <Navbar bg="light" className="main-header">

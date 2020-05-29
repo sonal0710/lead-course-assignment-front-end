@@ -20,9 +20,7 @@ export interface LeadCourseTableComponentProps {
   courseIndex: number;
 }
 
-export interface LeadCourseListContainerState {
-
-}
+export interface LeadCourseListContainerState {}
 
 export interface LeadCourseListContainerProps {
   courses: CourseDetailInterface[]
