@@ -17,9 +17,6 @@ export const getAllCourses = () => (dispatch: any) => {
             });
         })
         .catch(err => {
-            // dispatch({
-            //     type: actionTypes.GET_ESTIMATION_FAILURE,
-            //     error: err
-            // })
+            console.log(err)
         })
 };
