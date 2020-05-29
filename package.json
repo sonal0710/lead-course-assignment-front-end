@@ -1,0 +1,52 @@
+{
+  "name": "lead-course-assignment-front-end",
+  "version": "1.0.0",
+  "description": "Lead Course Assignment",
+  "main": "index.js",
+  "scripts": {
+    "build": "react-scripts build",
+    "start": "react-scripts start"
+  },
+  "keywords": [
+    "typescript",
+    "react",
+    "redux"
+  ],
+  "author": "dengthatsgood",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.0.0",
+    "@types/react": "^16.3.1",
+    "@types/react-dom": "^16.3.1",
+    "@types/react-redux": "^7.0.8",
+    "@types/react-router": "^5.1.5",
+    "@types/react-router-dom": "^5.1.4",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.4.1",
+    "dotenv-webpack": "^1.7.0",
+    "react": "^16.3.1",
+    "react-bootstrap": "^1.0.0-beta.16",
+    "react-dom": "^16.3.1",
+    "react-icons": "^3.9.0",
+    "react-redux": "^7.0.3",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.3.0",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "ts-loader": "^5.4.5",
+    "typesafe-actions": "^4.2.0",
+    "typescript": "^3.4.5"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
